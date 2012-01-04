@@ -1,0 +1,16 @@
+.Python
+.installed.cfg
+.mr.developer.cfg
+bin/
+develop-eggs/
+eggs/
+include/
+lib/
+logs/
+parts/
+downloads/
+etc/
+var/
+local.cfg
+*.pyc
+*.pyo
